@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Akashic7S/testapp.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/Akashic7S/testapp.git/static/js/main.b093229a.chunk.js",
+    "main.js.map": "/Akashic7S/testapp.git/static/js/main.b093229a.chunk.js.map",
+    "runtime-main.js": "/Akashic7S/testapp.git/static/js/runtime-main.9c9c784c.js",
+    "runtime-main.js.map": "/Akashic7S/testapp.git/static/js/runtime-main.9c9c784c.js.map",
+    "static/js/2.8208ce56.chunk.js": "/Akashic7S/testapp.git/static/js/2.8208ce56.chunk.js",
+    "static/js/2.8208ce56.chunk.js.map": "/Akashic7S/testapp.git/static/js/2.8208ce56.chunk.js.map",
+    "static/js/3.e61cd8a9.chunk.js": "/Akashic7S/testapp.git/static/js/3.e61cd8a9.chunk.js",
+    "static/js/3.e61cd8a9.chunk.js.map": "/Akashic7S/testapp.git/static/js/3.e61cd8a9.chunk.js.map",
+    "index.html": "/Akashic7S/testapp.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/Akashic7S/testapp.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.8208ce56.chunk.js.LICENSE.txt": "/Akashic7S/testapp.git/static/js/2.8208ce56.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Akashic7S/testapp.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9c9c784c.js",
+    "static/js/2.8208ce56.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b093229a.chunk.js"
+  ]
+}
